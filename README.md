@@ -3,7 +3,7 @@
 
 ![](https://raw.githubusercontent.com/A198-A/Starblast-FFA-Mod/main/resources/image.png)
 
-------------
+---
 
 ### In case you have ever called Survival mode as:
 - Mine for 30 minutes mode
@@ -15,7 +15,7 @@
 
 **Well here is the solution, I think...**
 
-------------
+---
 
 ### What is the mod about?
 
