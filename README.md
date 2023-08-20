@@ -1,11 +1,11 @@
-#Starblast.io - FFA MOD v1.0
+# Starblast.io - FFA MOD v1.0
 
 
 ![](https://raw.githubusercontent.com/A198-A/Starblast-FFA-Mod/main/resources/image.png)
 
 ------------
 
-###In case you have ever called Survival mode as:
+### In case you have ever called Survival mode as:
 - Mine for 30 minutes mode
 - Cuda mode
 - Mine ball mode
@@ -17,7 +17,7 @@
 
 ------------
 
-###What is the mod about?
+### What is the mod about?
 
 
 
